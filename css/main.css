@@ -1,24 +1,7 @@
 body { margin: 60px auto; width: 70%; }
 
-/*a { text-decoration: none; color: #999; }
-/*a:link {color: #333;}
-a:visited { color: #333;}
-a:hover {text-decoration: underline; color: #ffe4e1;}
-*/
-a:link, a:visited {
-    background-color: #	#fff0f5;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-}
-
-a:hover, a:active {
-    background-color: #999;
-}
-
-/*a:hover { text-decoration: underline; }*/
+a { text-decoration: none; color: #999; }
+a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
