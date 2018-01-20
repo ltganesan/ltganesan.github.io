@@ -2,7 +2,7 @@ body { margin: 60px auto; width: 70%; }
 
 a { text-decoration: none; color: #999; }
 /*a:hover { text-decoration: underline; }*/
-a:hover {color: hotpink;}
+a:hover {text-decoration: underline; color: #ffe4e1;}
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
